@@ -1,0 +1,22 @@
+[
+    {
+        "type": "income",
+        "amount": 120.0,
+        "description": "Parent's"
+    },
+    {
+        "type": "outcome",
+        "amount": -50.0,
+        "description": "Products"
+    },
+    {
+        "type": "outcome",
+        "amount": -20.0,
+        "description": "Gambling"
+    },
+    {
+        "type": "outcome",
+        "amount": -70.0,
+        "description": "Gambling"
+    }
+]
